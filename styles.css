@@ -1,1 +1,8 @@
-
+body {
+    font-family: Arial, sans-serif; /* Choose a clean, readable font */
+    line-height: 1.6; /* Improve readability with line spacing */
+    margin: 0; /* Remove default browser margin */
+    padding: 20px; /* Add some padding around the content */
+    background-color: #f4f4f4; /* Light background for a clean look */
+    color: #333; /* Darker text for readability */
+}
